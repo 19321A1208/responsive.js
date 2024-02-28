@@ -1,0 +1,14 @@
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+.cross {
+  height: 100px;
+  width: 100px;
+}
+.white {
+  background-color: beige;
+}
+.para {
+  font-family: 'Roboto';
+}
